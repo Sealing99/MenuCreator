@@ -1,0 +1,14 @@
+name: MenuCreator
+description: $description
+version: '${version}'
+
+main: net.sealing99.menuCreator.MenuCreator
+api-version: '26.2'
+load: STARTUP
+
+authors: [ Sealing99 ]
+
+commands:
+  eg:
+    usage: a
+    description: a
